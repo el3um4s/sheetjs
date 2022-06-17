@@ -1,5 +1,9 @@
 # [SheetJS](https://sheetjs.com)
 
+```
+This repository is my fork of the original project. I created this project to experiment with some variations. All rights and credits are of SheetJS
+```
+
 The SheetJS Community Edition offers battle-tested open-source solutions for
 extracting useful data from almost any complex spreadsheet and generating new
 spreadsheets that will work with legacy and modern software alike.
@@ -41,6 +45,5 @@ port calculations to web apps; automate common spreadsheet tasks, and much more!
 
 ## License
 
-Please consult the attached LICENSE file for details.  All rights not explicitly
+Please consult the attached LICENSE file for details. All rights not explicitly
 granted by the Apache 2.0 License are reserved by the Original Author.
-
