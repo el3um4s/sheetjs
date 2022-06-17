@@ -1,8 +1,6 @@
 # [SheetJS](https://sheetjs.com)
 
-```
-This repository is my fork of the original project. I created this project to experiment with some variations. All rights and credits are of SheetJS
-```
+**This repository is my fork of the original project. I created this project to experiment with some variations. All rights and credits are of SheetJS**
 
 The SheetJS Community Edition offers battle-tested open-source solutions for
 extracting useful data from almost any complex spreadsheet and generating new
